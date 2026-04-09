@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ridwonwahab
 - 👀 I’m interested in Tech/coding
-- 🌱 I have learnt Java, Html, Css, Boostrap, JavaScript from Udemy
-- I am currently a selected student of Alx scholarship August 2022 Cohort
+- 🌱 I have basics in Python, JavaScript, Java, Html, Css, Boostrap.
+- I was part of Alx scholarship August 2022 Cohort
 - 💞️ I’m looking to collaborate with Developers 
 - 📫 How to reach me  ridwonwahab@gmail.com
 
